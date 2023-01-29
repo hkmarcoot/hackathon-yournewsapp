@@ -1,4 +1,4 @@
-# Percayso Programming Exercise 3
+# Hackathon Your News App
 
 ## Planning
 
